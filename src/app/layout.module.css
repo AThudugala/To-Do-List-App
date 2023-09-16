@@ -1,0 +1,36 @@
+/* .container {
+    max-width: 36rem;
+    padding: 0 1rem;
+    margin: 3rem auto 6rem;
+  }
+  .header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+   */
+   /* App.css */
+
+
+   .purple-container {
+    background-color: purple;
+    padding: 20px;
+  }
+  
+  .container {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .container h1 {
+    color: black;
+  }
+  
+  .container form input, .container form button {
+    margin: 5px;
+  }
+  
+  .container form input {
+    padding: 5px;
+  }
+  

@@ -1,0 +1,15 @@
+/* App.css */
+
+.container {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .successMessage {
+    color: green;
+  }
+  
+  .inputField {
+    margin-right: 10px;
+  }
+  
