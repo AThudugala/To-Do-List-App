@@ -6,7 +6,9 @@ const TodoList = ({todos}) => {
             {todos.map((todo) =>(
                 <li key = {todo.id}>
                     <span>{todo.text}</span>
-                    <button>Delete</button>
+                    <button> Edit </button>
+                    <button> Delete</button>
+                    
                 </li>
             ))}
         </ul>
